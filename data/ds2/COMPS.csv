@@ -1,0 +1,6 @@
+faulttime,2000,,,,,,,,
+simtime,4000,,,,,,,,
+COMPS,inputReservoir, pump, tankB101, tankB102, valveDiscrete, valveV101, V101, V102,outputReservoir
+ds2c,pump, tankB101,,,,,,,
+ds2l,tankB101, pump, tankB102,,,,,,
+ds2lc,tankB101, pump, tankB102, valveV101,,,,,

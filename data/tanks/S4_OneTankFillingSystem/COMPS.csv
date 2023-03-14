@@ -1,0 +1,6 @@
+faulttime,250,,,,,,
+simtime,500,,,,,,
+COMPS,pipe1,pipe2,pipe3,v3,valveLeft,valveRight,tank
+tankleak,tank,,,,,,
+valveLeft,valveLeft,,,,,,
+valveRight,valveRight,,,,,,

@@ -1,0 +1,6 @@
+faulttime,2000,,,,,
+simtime,4000,,,,,
+COMPS,tankB101, pumpP101, filterF101, valveDiscrete, valveV101, tankB102
+ds3c,tankB101, pumpP101, tankB102,,,
+ds3l,pumpP101, tankB102,,,,
+ds3lc,tankB101, pumpP101, filterF101, valveV101, tankB102, tankB102

@@ -1,0 +1,9 @@
+faulttime,250,,,,,,,,,,,,,,,
+simtime,500,,,,,,,,,,,,,,,
+COMPS,pipe,pump0,pipe4,pipe5,tank1,tank2,pipe1,pipe2,valve1,pipe6,pipe7,valve3,tank,pump1,pipe3,valve2
+pumpSlow,pump0,,,,,,,,,,,,,,,
+tank1leak,tank1,,,,,,,,,,,,,,,
+tank2leak,tank2,,,,,,,,,,,,,,,
+valve3,valve3,,,,,,,,,,,,,,,
+valve2,valve2,pump1,,,,,,,,,,,,,,
+valve1,valve1,,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+faulttime,2000,,,,
+simtime,4000,,,,
+COMPS,tankB401, pumpP401, tankB402, valveDiscrete, valveV403
+ds4c,pumpP401, tankB402,,,
+ds4l,pumpP401, tankB402, tankB401,,
+ds4lc,tankB401, pumpP401, tankB402, valveV403, 

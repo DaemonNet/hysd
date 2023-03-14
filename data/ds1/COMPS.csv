@@ -1,0 +1,7 @@
+faulttime,2000,,,,,,,,
+simtime,4000,,,,,,,,
+COMPS,tankB201, pumpP201, tankB202, tankB203, valveV201, valveV202, valveV203, tankB204,valveLinear
+ds1c,pumpP201, valveV201, valveV202, valveV203,,,,,
+ds1l,pumpP201, valveV201, valveV202, valveV203,tankB202,tankB203,tankB201,,
+ds1lc,pumpP201, valveV201, valveV202, valveV203,tankB202,tankB203,tankB201,,
+
